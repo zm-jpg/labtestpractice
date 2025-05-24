@@ -26,8 +26,13 @@ def total_cost_shopping():
 Inline-style: 
 ![alt text](https://i.kym-cdn.com/entries/icons/original/000/046/701/Screenshot_(308).png "Logo Title Text 1")
 
+Incline-style
+![alt text](https://static.wikia.nocookie.net/ac299735-c389-4db6-986f-5a83a48c06dd "Logo Title Text 1")
+
 Reference-style: 
 ![alt text][logo]
 
 [logo]: https://media1.tenor.com/m/Pw1fmWcVxNkAAAAC/nah-id-win-gojo.gif
  "Logo Title Text 2"
+
+ [I'm an inline-style link with title](https://youtu.be/xvFZjo5PgG0?si=biWA0wLjZzs1SZRl "Youtube top 10 best memes")
