@@ -2,7 +2,7 @@
 ### **This is dumb**
 1. 1st item
 2. 2nd item
-   * sublist
+* sublist
 2. erere
 5. e3efdsf
 4. fewf 
@@ -17,3 +17,7 @@ def total_cost_shopping():
     print("total cost = ", total_cost)
     return total_cost
 ```
+|Tables |Kinda |fun | No| Cyap|hehe|
+|-------|------|----|---|-----|----|
+|I|am|a|straight|forward|guy|
+|IM|STRAIGHT|IM|STRAIGHT|IM|STRAIGHT|
