@@ -21,3 +21,13 @@ def total_cost_shopping():
 |-------|------|----|---|-----|----|
 |I|am|a|straight|forward|guy|
 |IM|STRAIGHT|IM|STRAIGHT|IM|STRAIGHT|
+
+
+Inline-style: 
+![alt text](https://i.kym-cdn.com/entries/icons/original/000/046/701/Screenshot_(308).png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://media1.tenor.com/m/Pw1fmWcVxNkAAAAC/nah-id-win-gojo.gif
+ "Logo Title Text 2"
